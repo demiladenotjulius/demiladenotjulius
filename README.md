@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @demiladenotjulius
 - 👀 I’m interested in coding and travelling
 - 🌱 on the journey to be a full-stack developer
-- 📫  demilade.folajuwon@gmail.com, reach me.
+- 📫  demiladenotjulius@gmail.com, reach me.
 - @demiladenotjulius on all social media
 - ⚡ i code over 15 hours daily, lol
 
