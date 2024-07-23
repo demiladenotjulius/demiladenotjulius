@@ -24,12 +24,13 @@
 **More About Me**
 
 
-- 👋 Hi, I’m @demiladenotjulius
-- 👀 I’m interested in coding and travelling
-- 🌱 on the journey to be a full-stack developer
-- 📫  demiladenotjulius@gmail.com, reach me.
-- @demiladenotjulius on all social media
-- ⚡ i code over 15 hours daily, lol
+- 🌐 See my full [about page here](https://demladenotjulius.dev/about)
+- I'm an introverted and very observant. 
+- I'm currently contributing to the open source world to put into practice the knowledge acquired in my studies.<br> I also help the guys who are starting programming in the communities.
+- 💬 Ask me about Open Source, React J.s, and Node JS.
+- 💬 You can ask me questions, I like to help!
+- 🌑 Observing space
+- 🎮 Find me in the gaming world: watching manchester united boring matches
 
 <!---z
 demiladenotjulius/demiladenotjulius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
