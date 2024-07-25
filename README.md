@@ -5,11 +5,11 @@
 
 <!-- Add buttons with links to social media or other platforms -->
 <div align="center">
-  <a href="https://twitter.com/__demiladeee" target="_blank">
+  <a href="https://twitter.com/demilade_julius" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <!-- Instagram button -->
-  <a href="https://instagram.com/demiladenotjulius" target="_blank">
+  <a href="https://instagram.com/demilade_julius" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/demilade-julius-3952b2263/" target="_blank">
